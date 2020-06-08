@@ -1,38 +1,31 @@
 ---
 permalink: /URLs/
 ---
-## Hanifah Rahmajati Page - Operating System
+## Hanifah Rahmajati Page 
+## Operating System
 
-INI URL MD
+**Operating System** atau yang disebut dengan Sistem operasi adalah seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. 
 
-### Markdown
+### Contoh Operating System
+- Windows
+![Image](https://media.kasperskydaily.com/wp-content/uploads/sites/36/2020/01/23161159/rip-windows-seven-featured.jpg)
+- Macintosh (Mac OS) 
+![Image](https://donnyposumah.files.wordpress.com/2014/07/6925594_20140715023844.gif)
+- Linux
+![Image](https://cdn2.tstatic.net/jateng/foto/bank/images/linux-unkartur-1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Link Operating System
+Dalam melakukan pengisian materi yang ada di github pages ini saya mencari informasi dan mendapatkan gambar melalui GSGS. Berikut link - link penting yang menurut saya berguna selama saya mempelajari Operating System:
+- [OS.VLSM.ORG](https://os.vlsm.org/)
+- [Blog Pak Rahmat M. Samik](https://rahmatm.samik-ibrahim.vlsm.org/)
+- [Pemrograman Socket](https://docplayer.info/32672006-Pemrograman-socket-dengan-c.html)
+- [Medium Sistem Operasi](https://medium.com/@iwankartiwan77/sistem-operasi-operating-system-os-adalah-seperangkat-program-yang-mengelola-sumber-daya-a34e62f6b4c4)
+dll link google yang berguna yang tidak saya letakkan disini.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### DLL
+Terimakasih semua semoga berguna! Semangat belajar!
+``` markdown
+"Mereka yang ingin berhenti belajar dan menuntut ilmu akan menadi pemilik masa lalu, tetapi mereka yang terus giat belajar akan menjadi pemilik masa depan."
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanifahrahma/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jolan Tru!
