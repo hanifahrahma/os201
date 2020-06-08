@@ -1,10 +1,9 @@
-## Hello everyone! 
+## Hanifah Rahmajati Page
 
-Halo semua! Selamat datang di Page saya, semoga mendapatkan informasi yang cukup
-Saya sedang mengambil kuliah tahun kedua di Sistem Informasi, Fakultas Ilmu Komputer. 
+Halo semua! Selamat datang di Page saya, semoga mendapatkan informasi yang cukup dan dapat senang membacanya!
+Saya sedang mengambil kuliah semester 4 di Sistem Informasi, Fakultas Ilmu Komputer. 
 
-
-Saya membuat web ini untuk menyelesaikan Ujian salah satu mata kuliah yang sedang saya ambil yaitu [Operating System](https://hanifahrahma.github.io/os201/URLs)
+Saya membuat web ini untuk menyelesaikan Ujian PAS1 pada salah satu mata kuliah yang sedang saya ambil yaitu Operating System.
 
 ### About Me
 ```markdown
@@ -14,31 +13,17 @@ Sistem Informasi
 Fakultas Ilmu Komputer
 ```
 
-```markdown
-Syntax highlighted code block
+### Operating System
+Sedikit tentang Operating System, **Operating System** atau yang disebut dengan Sistem operasi adalah seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. 
+Pada Github Page ini saya akan membicarakan lebih lanjut mengenai Sistem Operasi yang saya ketahui, silahkan membaca tulisan saya dibawah ini:
+- [Operating System](https://hanifahrahma.github.io/os201/URLs)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Kontak
+:house_with_garden: Jl. Depok Indah 2, Depok, Jawa Barat
+:e-mail: hanifah.rahmajati@ui.ac.id
+[LinkedIn](https://www.linkedin.com/in/hanifah-rahma-260/)
+[Medium](https://medium.com/@evarrh)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hanifahrahma/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact
-- Alamat  : Jl. Depok Indah 2, Depok, Jawa Barat
-- Email   : hanifah.rahmajati@ui.ac.id
 
