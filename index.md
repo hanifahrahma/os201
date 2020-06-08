@@ -16,10 +16,10 @@ Fakultas Ilmu Komputer
 ### Operating System
 Sedikit tentang Operating System, **Operating System** atau yang disebut dengan Sistem operasi adalah seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. 
 Pada Github Page ini saya akan membicarakan lebih lanjut mengenai Sistem Operasi yang saya ketahui, silahkan membaca tulisan saya dibawah ini:
-- [Operating System](https://hanifahrahma.github.io/os201/URLs)
+- [URLs](https://hanifahrahma.github.io/os201/URLs)
 
 
-### Kontak
+### Contact
 :house_with_garden: Jl. Depok Indah 2, Depok, Jawa Barat
 :e-mail: hanifah.rahmajati@ui.ac.id
 [LinkedIn](https://www.linkedin.com/in/hanifah-rahma-260/)
