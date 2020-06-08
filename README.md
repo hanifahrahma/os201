@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hanifah Rahmajati
 
 You can use the [editor on GitHub](https://github.com/hanifahrahma/os201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
