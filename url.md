@@ -1,4 +1,7 @@
-## Hanifah Rahmajati
+---
+permalink: /URLs/
+---
+## Hanifah Rahmajati Page - Operating System
 
 INI URL MD
 
