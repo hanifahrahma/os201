@@ -20,10 +20,10 @@ Pada Github Page ini saya akan membicarakan lebih lanjut mengenai Sistem Operasi
 
 
 ### Contact
-:house_with_garden: Jl. Depok Indah 2, Depok, Jawa Barat
-:e-mail: hanifah.rahmajati@ui.ac.id
-[LinkedIn](https://www.linkedin.com/in/hanifah-rahma-260/)
-[Medium](https://medium.com/@evarrh)
+- :house_with_garden: Jl. Depok Indah 2, Depok, Jawa Barat
+- :e-mail: hanifah.rahmajati@ui.ac.id
+- [LinkedIn](https://www.linkedin.com/in/hanifah-rahma-260/)
+- [Medium](https://medium.com/@evarrh)
 
 
 
