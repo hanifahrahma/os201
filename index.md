@@ -8,6 +8,7 @@ Saya membuat web ini untuk menyelesaikan Ujian PAS1 pada salah satu mata kuliah 
 ### About Me
 ```markdown
 Hanifah Rahmajati
+1806146972
 OS - C
 Sistem Informasi
 Fakultas Ilmu Komputer
