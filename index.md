@@ -13,9 +13,8 @@ Sistem Informasi
 Fakultas Ilmu Komputer
 ```
 
-### Tentang Halaman ini
-Sedikit tentang Operating System, **Operating System** atau yang disebut dengan Sistem operasi adalah seperangkat program yang mengelola sumber daya hardware komputer, dan menyediakan layanan yang umum untuk aplikasi software. 
-Pada Github Page ini saya akan membicarakan lebih lanjut mengenai Sistem Operasi yang saya ketahui, silahkan membaca Page saya dibawah ini:
+### Tentang Halaman ini 
+Pada Github Page ini saya telah membuat 2 halaman yang berisi data diri saya pada halaman ini dan halaman kedua akan berbagi sedikit informasi dan link - link penting mengenai Sistem Operasi yang saya ketahui, silahkan membaca Page saya dibawah ini:
 - [URLs](https://hanifahrahma.github.io/os201/URLs)
 
 ### Alasan 
