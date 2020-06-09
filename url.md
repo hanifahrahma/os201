@@ -21,11 +21,16 @@ Dalam melakukan pengisian materi yang ada di github pages ini saya mencari infor
 - [Blog Pak Rahmat M. Samik](https://rahmatm.samik-ibrahim.vlsm.org/)
 - [Pemrograman Socket](https://docplayer.info/32672006-Pemrograman-socket-dengan-c.html)
 - [Medium Sistem Operasi](https://medium.com/@iwankartiwan77/sistem-operasi-operating-system-os-adalah-seperangkat-program-yang-mengelola-sumber-daya-a34e62f6b4c4)
-dll link google yang berguna yang tidak saya letakkan disini.
+- [Akun Youtube Pak Anwar] (https://www.youtube.com/channel/UCpCmOF7bwVaKIQkvBKBXhLQ/featured)
+- [Buku Operating System Concepts (Silberschatz et.al.)](https://codex.cs.yale.edu/avi/os-book/)
+- [Slide Operating System Concepts (Silberschatz et.al.) - 2018](https://www.os-book.com/OS10/slide-dir/)
+- dll 
+link google yang berguna yang tidak saya letakkan disini.
 
 ### DLL
 Terimakasih semua semoga berguna! Semangat belajar!
 ``` markdown
-"Mereka yang ingin berhenti belajar dan menuntut ilmu akan menadi pemilik masa lalu, tetapi mereka yang terus giat belajar akan menjadi pemilik masa depan."
+"Mereka yang ingin berhenti belajar dan menuntut ilmu akan menadi pemilik masa lalu, 
+tetapi mereka yang terus giat belajar akan menjadi pemilik masa depan."
 ```
 Jolan Tru!
